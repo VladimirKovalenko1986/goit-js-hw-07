@@ -38,6 +38,4 @@ function onGalleryClickSlideImage(e) {
     if (e.target.nodeName !== 'IMG') {
         return;
     }
-
-    gallery.on;
 }
